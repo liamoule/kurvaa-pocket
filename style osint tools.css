@@ -1,0 +1,39 @@
+body{
+background-color: rgb(30, 30, 30);
+}
+
+main{
+    height: 300px;
+    width: 80%;
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+    border: 2px solid rgb(63, 0, 0);
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+header{
+    letter-spacing: -1px;
+    text-align: center;
+    font-size: 3rem;
+    color: rgb(64, 7, 111);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+    color: rgb(138, 0, 0);
+    font-size: 5rem;
+    margin: 0%;
+    margin-bottom: 5%;
+}
+
+li{
+    color: rgba(177, 3, 3, 0.653);
+}
+
+a{
+    color: rgba(169, 28, 28, 0.758);
+}
